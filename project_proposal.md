@@ -56,4 +56,4 @@ This project will be completed by Paulina and Carolina as a group. To stay on tr
 - Natural Language Processing: Accurately identifying the meaninful keywords while filtering out irrelevant words can get tricky.
 - Front-end: Making the output intuitive and clean, finding the balance between the back-end and functionality and the front-end and user experience.
 
-To address these challenges we will prioritiz building a very simple, but finctional MVP before adding any stretch features. We will also try to keep the front-end simple and focus on clear information display instead of design-heavy features.
+To address these challenges we will prioritiz building a very simple, but finctional MVP before adding any stretch features. We will also try to keep the front-end simple and focus on clear information display instead of design-heavy features. We will try to implement any new knowledge we gained after doing Assignment 3 to help us in this process.
